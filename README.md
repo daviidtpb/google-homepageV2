@@ -1,0 +1,1 @@
+Hi, this is my second attempt at recreating the Google Home webpage with some few adjustments.
